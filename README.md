@@ -17,9 +17,9 @@ I'm Sagar Patel. I'm pursuing Master in Computer Science 🎓 from Middlesex Uni
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/sagarpatel9697" target="blank"><img align="center" src="https://github.com/sagarpatel9697/sagarpatel9697/blob/master/assets/twitter.svg" alt="sagarpatel9697" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/sagar-patel-9697x" target="blank"><img align="center" src="https://github.com/sagarpatel9697/sagarpatel9697/blob/master/assets/linkedin.svg" alt="sagarpatel9697" height="30" width="30" /></a>
-<a href="https://dev.to/sagarpatel9697" target="blank"><img align="center" src="https://github.com/sagarpatel9697/sagarpatel9697/blob/master/assets/dev.svg" alt="sagarpatel9697" height="30" width="30" /></a>
+<a href="https://twitter.com/sagarpatel9697" target="blank"><img align="center" src="./assets/twitter.svg" alt="sagarpatel9697" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/sagar-patel-9697x" target="blank"><img align="center" src="./assets/linkedin.svg" alt="sagarpatel9697" height="30" width="30" /></a>
+<a href="https://dev.to/sagarpatel9697" target="blank"><img align="center" src="./assets/dev.svg" alt="sagarpatel9697" height="30" width="30" /></a>
 
 </p>
 
