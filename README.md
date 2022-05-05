@@ -1,6 +1,6 @@
 <!-- visitor counter -->
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/sagarpatel9697/count.svg" />
+  <img src="https://profile-counter.glitch.me/theanadimukt/count.svg" />
 </p>
 
 <!-- welcome message -->
@@ -17,9 +17,9 @@ I'm Sagar Patel. I'm pursuing Master in Computer Science 🎓 from Middlesex Uni
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/sagarpatel9697" target="blank"><img align="center" src="./assets/twitter.svg" alt="sagarpatel9697" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/sagar-patel-9697x" target="blank"><img align="center" src="./assets/linkedin.svg" alt="sagarpatel9697" height="30" width="30" /></a>
-<a href="https://dev.to/sagarpatel9697" target="blank"><img align="center" src="./assets/dev.svg" alt="sagarpatel9697" height="30" width="30" /></a>
+<a href="https://twitter.com/theanadimukt" target="blank"><img align="center" src="./assets/twitter.svg" alt="theanadimukt" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/theanadimukt" target="blank"><img align="center" src="./assets/linkedin.svg" alt="theanadimukt" height="30" width="30" /></a>
+<a href="https://dev.to/theanadimukt" target="blank"><img align="center" src="./assets/dev.svg" alt="theanadimukt" height="30" width="30" /></a>
 
 </p>
 
@@ -39,12 +39,12 @@ I'm Sagar Patel. I'm pursuing Master in Computer Science 🎓 from Middlesex Uni
 
 <p>
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagarpatel9697&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theanadimukt&show_icons=true&hide_border=true" />
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpatel9697&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanadimukt&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/sagarpatel9697">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/theanadimukt">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 😊 💜</em>
